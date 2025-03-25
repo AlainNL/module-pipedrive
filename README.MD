@@ -34,7 +34,7 @@ Create a `.env` file in the project root with:
 ```
 PINPO_API_KEY=your_api_key
 PINPO_SCENARIO_ID=your_scenario_id
-PINPO_API_URL=https://api.pinpo.com/endpoint
+PINPO_API_URL=api_pinpo_url_
 ```
 
 ## 🔐 Configuration
